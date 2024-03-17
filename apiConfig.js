@@ -20,3 +20,7 @@ export const checkBookExistence = async (path, child) => {
     const snapshot = await ref.child(child).once('value');
     return snapshot.exists(); 
 };
+export const uniqueID = async(path) =>{
+    const ref = db.ref(path).push();
+    return ref.key;
+};
