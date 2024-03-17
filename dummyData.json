@@ -1,0 +1,116 @@
+{
+  "Fantasy": {
+    "the_name_of_the_wind": {
+      "ISBN": "978-0756404741",
+      "author": "Patrick Rothfuss",
+      "dateRelease": "2007-03-27",
+      "editorial": "DAW Books",
+      "genre": "Fantasy",
+      "name": "The Name of the Wind",
+      "pageNumber": 662,
+      "resume": "The tale of Kvothe, from his childhood in a troupe of traveling players, to years spent as a near-feral orphan in a crime-ridden city, to his daringly brazen yet successful bid to enter a legendary school of magic."
+    },
+    "the_way_of_kings": {
+      "ISBN": "978-0765326355",
+      "author": "Brandon Sanderson",
+      "dateRelease": "2010-08-31",
+      "editorial": "Tor Books",
+      "genre": "Fantasy",
+      "name": "The Way of Kings",
+      "pageNumber": 1007,
+      "resume": "In a world tormented by brutal warfare, the lives of multiple characters intertwine in the first of an epic fantasy series. Among them, an enslaved man seeks freedom, a soldier discovers his destiny, and a young woman seeks justice."
+    }
+  },
+  "Science Fiction": {
+    "neuromancer": {
+      "ISBN": "978-0441569595",
+      "author": "William Gibson",
+      "dateRelease": "1984-07-01",
+      "editorial": "Ace",
+      "genre": "Science Fiction",
+      "name": "Neuromancer",
+      "pageNumber": 271,
+      "resume": "Case was the sharpest data-thief in the matrix—until he crossed the wrong people and they crippled his nervous system, banishing him from cyberspace. Now a new employer has recruited him for a last-chance run at the impossible."
+    },
+    "the_martian": {
+      "ISBN": "978-0804139021",
+      "author": "Andy Weir",
+      "dateRelease": "2014-02-11",
+      "editorial": "Crown",
+      "genre": "Science Fiction",
+      "name": "The Martian",
+      "pageNumber": 369,
+      "resume": "Stranded on Mars with only a meager amount of supplies, astronaut Mark Watney faces the challenge of a lifetime to survive and find a way to signal to Earth that he is alive."
+    }
+  },
+  "Mystery": {
+    "the_da_vinci_code": {
+      "ISBN": "978-0385504201",
+      "author": "Dan Brown",
+      "dateRelease": "2003-03-18",
+      "editorial": "Doubleday",
+      "genre": "Mystery",
+      "name": "The Da Vinci Code",
+      "pageNumber": 454,
+      "resume": "Harvard symbologist Robert Langdon is drawn into a complex mystery when a murder in the Louvre Museum leads to a trail of clues hidden in the works of Leonardo da Vinci."
+    },
+    "gone_girl": {
+      "ISBN": "978-0307588371",
+      "author": "Gillian Flynn",
+      "dateRelease": "2012-05-24",
+      "editorial": "Crown Publishing Group",
+      "genre": "Mystery",
+      "name": "Gone Girl",
+      "pageNumber": 432,
+      "resume": "On the morning of their fifth wedding anniversary, Nick's wife Amy disappears. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble."
+    }
+  },
+  "Historical Fiction": {
+    "the_pillars_of_the_earth": {
+      "ISBN": "978-0451166890",
+      "author": "Ken Follett",
+      "dateRelease": "1989-09-01",
+      "editorial": "William Morrow",
+      "genre": "Historical Fiction",
+      "name": "The Pillars of the Earth",
+      "pageNumber": 983,
+      "resume": "Set in the middle of the 12th century in England, it tells the story of the building of a cathedral in the fictional town of Kingsbridge. It is a tale of ambition, anarchy, and absolute power."
+    },
+    "wolf_hall": {
+      "ISBN": "978-0805080681",
+      "author": "Hilary Mantel",
+      "dateRelease": "2009-04-30",
+      "editorial": "Henry Holt and Co.",
+      "genre": "Historical Fiction",
+      "name": "Wolf Hall",
+      "pageNumber": 560,
+      "resume": "An insightful portrayal of Henry VIII's court through the rise of Thomas Cromwell, from his humble beginnings to becoming the King's chief advisor."
+    }
+  },
+  "Non-Fiction": {
+    "educated": {
+      "ISBN": "978-0399590504",
+      "author": "Tara Westover",
+      "dateRelease": "2018-02-20",
+      "editorial": "Random House",
+      "genre": "Non-Fiction",
+      "name": "Educated",
+      "pageNumber": 334,
+      "resume": "A memoir recounting the struggle of a girl who grows up in a survivalist family in the mountains of Idaho and then goes on to earn a PhD from Cambridge University."
+    },
+    "the_power_of_habit": {
+      "ISBN": "978-1400069286",
+      "author": "Charles Duhigg",
+      "dateRelease": "2012-02-28",
+      "editorial": "Random House",
+      "genre": "Non-Fiction",
+      "name": "The Power of Habit",
+      "pageNumber": 371,
+      "resume": "Explores the science behind why habits exist and how they can be changed, providing insight into human nature and its potential for transformation."
+    }
+  }
+  
+}
+
+
+
