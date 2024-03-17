@@ -12,7 +12,7 @@ npm install axios express cors firebase-admin firebase
 ```
 
 then you must need to create a file **credentials.json** with some specific format
-you can see the custom example [here](pending)
+you can see the custom example [here](https://github.com/AxlBasilioa/apiBooks/blob/master/credentialsExample.json)
 
 to run and test it you can do
 ```bash
