@@ -1,0 +1,35 @@
+here is an example of how CURL POST data from terminal using CURL
+
+curl -X POST http://localhost:3000/addBook \
+-H "Content-Type: application/json" \
+-d '{
+    "genre": "Ficción",
+    "nameBook": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "dateRelease": "1967",
+    "isbn": "978-3-16-148410-0",
+    "editorial": "Editorial Sudamericana",
+    "pageNumber": 471,
+    "resume": "Es una novela que narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo."
+}'
+
+to test it or implement some body data requested from app functions yoy must use fetch or axios to send data
+const data = {
+    /*here the requested data key-value*/;
+}
+//example fetch
+const response = await tetch(url, {
+    method:'POST',
+    headers:{
+        'Content-Type:'application/json'
+    },
+    body:JSON.stringify(data);
+});
+//example axios
+
+axios.post(url, data).then(response =>{
+
+}).catch(error=>{
+
+});
+
